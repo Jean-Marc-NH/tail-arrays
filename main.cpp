@@ -38,7 +38,6 @@ struct tailA {
 int main()
 {
     tailA<int> a;
-
     a.push(1);
     a.push(12);
     a.push(11);
